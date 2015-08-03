@@ -1,0 +1,1 @@
+A comprehensive app that would makes you love Mathematics. Provides a step by step solution for even complex problems.
